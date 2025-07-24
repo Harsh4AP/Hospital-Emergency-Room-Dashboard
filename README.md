@@ -78,6 +78,12 @@ To explore the dashboard:
 
 ---
 
+📌 About
+
+This project is part of my TechNest Intern training to build hands-on experience in data analysis and visualization.
+
+---
+
 
 
 
